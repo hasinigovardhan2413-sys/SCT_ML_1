@@ -370,7 +370,7 @@ MIT License - Feel free to use this project for learning and educational purpose
 **Hasini Govardhan**
 - 🔗 GitHub: [@hasinigovardhan2413-sys](https://github.com/hasinigovardhan2413-sys)
 - 📧 Email: hasinigovardhan2413@gmail.com
-- 💼 Open for internships and collaborations!
+- 💼 Open for internships and collaborations..! #
 
 ---
 
